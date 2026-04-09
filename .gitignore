@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS
+.DS_Store
+
+# Generated XML files
+RB.xml
+RB_modifiziert.xml
+*.xml
+
+# Editor
+.vscode/
